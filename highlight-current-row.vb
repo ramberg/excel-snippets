@@ -9,3 +9,5 @@ Private Sub Worksheet_SelectionChange(ByVal Target As Range)
         .RefersToR1C1 = "=" & ActiveCell.Row
     End With
 End Sub
+
+'Source: youtube channel "Adobe in a Minute"
